@@ -25,7 +25,7 @@
   * [文件更改](19_change_file.md)
   * [查看提交历史](20_check_history.md)
   * [撤消操作](21_revocation_operation.md)
-  * [远程仓库的使用]()
+  * [远程仓库的使用](22_rss.md)
   * [标签](23_label.md)
   * [Git 技巧和窍门](24_git_skill.md)
 * [Git分支](25_branch.md)
