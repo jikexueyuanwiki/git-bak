@@ -1,25 +1,25 @@
 # Git
 
-* 1.Git概述
+* Git概述
   * [Git 简介](01_git_intro.md)
   * [Git 诞生](02_git_boren.md)
-* 2.版本控制系统
+* 版本控制系统
   * [版本控制系统简介](03_VCS_intro.md)
   * [本地版本控制系统](04_local_VCS.md)
   * [集中式版本控制系统](05_centrailized_VCS.md)
   * [分布式版本控制系统](06_DVCS.md)
-* 3.Git安装
+* Git安装
   * [配置信息](07_configuration_information.md)
   * [安装方式](08_Installation.md)
   * [获取帮助](09_help.md)
-* 4.[Git 基础](10_git_base.md)
+* [Git 基础](10_git_base.md)
   * [直接记录快照，而非差异比较](11_Snapshots.md)
   * [近乎所有操作都是本地执行](12_File_Operations.md)
   * [时刻保持数据完整性](13_data_integrity.md)
   * [多数操作仅添加数据](14_adding_data.md)
   * [文件的三种状态](15_FileState.md)
   * [基本的 Git 工作流程](16_Git_WorkFlow.md)
-* 5.Git仓库 
+* Git仓库
   * [创建 Git 仓库](17_Build_Repository.md)
   * [更新 Git 仓库](18_Update_Repository.md)
   * [文件更改](19_change_file.md)
@@ -28,19 +28,19 @@
   * [远程仓库的使用]()
   * [标签](23_label.md)
   * [Git 技巧和窍门](24_git_skill.md)
-* 6.[Git分支](25_branch.md)
+* [Git分支](25_branch.md)
   * [何谓分支](26_branch_intro.md)
   * [分支的新建与合并](27_branch_create.md)
   * [分支的新建与切换](28_branch_switch.md)
   * [分支的合并](29_branch_combine.md)
   * [分支的管理](30_branch_manage.md)
   * [分支的衍合](31_branch_link.md)
-* 7.[服务器上的Git](32_git_on_server.md)
+* [服务器上的Git](32_git_on_server.md)
   * [协议](33_protocol.md)
   * [在服务器上部署 Git](34_deploy.md)
   * [Git 托管服务](35_trusteeship.md)
   * [Github 小结](36_summarize.md)
-* 8.[分布式Git](37_git_DVCS.md)
+* [分布式Git](37_git_DVCS.md)
   * [分布式工作流程](38_DVCS_workflow.md)
   * [集中式工作流](39_CVCS_workflow.md)
   * [集成管理员工作流](40_administrator_workflow.md)
